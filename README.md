@@ -53,6 +53,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jmspunsara&" alt="jmspunsara" /></p>
 
+<h3>Snake Game</h3>
 <div align="center">
     <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" height="300" alt="streak graph"  />
   </div>
