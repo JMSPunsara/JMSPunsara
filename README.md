@@ -1,5 +1,5 @@
 
-<img align="center" alt="Coding" width="100%" src="https://camo.githubusercontent.com/1f2b99d9ff2aac4d8b4a52382c1ea0696cfca5a05fbcbfba7b722b959fea00d2/68747470733a2f2f7777772e6469676974616c736f6c7574696f6e73657276696365732e636f6d2f696d672f73657276696365732f77656273697465312e676966">
+<img align="center" alt="Coding" width="100%" src="https://payload-cms.code-b.dev/media/Difference%20between%20a%20Full%20Stack%20Developer%20and%20a%20Software%20Engineer-7.gif">
 
 <h1 align="center">Hi 👋, I'm JMSPunsara</h1>
 <h3 align="center">Undergraduate Software Engineer Student</h3>
