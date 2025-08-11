@@ -165,7 +165,7 @@ Cybersecurity Student | Ethical Hacker | Digital Guardian
   <a href="https://github.com/JMSPunsara/cybersecurity-tools">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=JMSPunsara&repo=cybersecurity-tools&theme=dark&bg_color=0d1117&hide_border=true&title_color=00ff41&text_color=ffffff" />
   </a>
-  <a href="https://github.com/JMSPunsara/penetration-testing">
+  <a href="https://github.com/JMSPunsara/greenlife_wellness_center">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=JMSPunsara&repo=penetration-testing&theme=dark&bg_color=0d1117&hide_border=true&title_color=00ff41&text_color=ffffff" />
   </a>
 </div>
